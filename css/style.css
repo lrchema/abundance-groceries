@@ -274,7 +274,7 @@ button {
 	width: 100%;
 	float: left;
 	font-size: 40pt;
-	color: #ff7e1d;
+	color: #000369;
 }
 .lorem_text {
     width: 100%;
@@ -287,7 +287,7 @@ button {
     width: 43%;
     float: left;
     color: #ffffff;
-    background-color: #ff7e1d;
+    background-color: #000369;
     height: 50px;
     text-align: center;
     font-size: 20px;
@@ -588,7 +588,7 @@ button.main_bt a:hover { color: #faf9f9; }
 	color: #ffffff;
 }
 .footer_menu li a:hover{ 
-	color: #ff7e1d;
+	color: #000369;
 }
 
 .footer_lorem_text {
@@ -602,7 +602,7 @@ button.main_bt a:hover { color: #faf9f9; }
 .input-group>.input-group-append>.btn, .input-group>.input-group-append>.input-group-text, .input-group>.input-group-prepend:first-child>.btn:not(:first-child), .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child), .input-group>.input-group-prepend:not(:first-child)>.btn, .input-group>.input-group-prepend:not(:first-child)>.input-group-text {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    background-color: #ff7e1d;
+    background-color: #000369;
     height: 50px;
     color: #fff;
     border: 0px;
